@@ -2,6 +2,10 @@
 
 这是一个使用 Unity 引擎开发的 2D Roguelike 游戏项目。玩家将在随机生成的地下城中探险，击败敌人，收集金币，购买强力武器，并挑战最终 Boss。
 
+## 🎮 游戏演示
+
+[点击下载演示视频](https://github.com/planX557/MyRogueLike/releases/download/v1.0-demo/QQ2026316-15304-HD.mp4)
+
 ## 游戏特色 (Game Features)
 
 *   **随机生成关卡 (Procedural Level Generation)**：每次游戏的地图布局都是随机生成的，保证了重复游玩的乐趣。
@@ -27,7 +31,3 @@
 2.  克隆或下载本项目到本地。
 3.  使用 Unity Hub 添加并打开 `MyRogueLike` 项目文件夹。
 4.  打开 `Assets/Scenes` 目录下的 `MainMenu` 场景开始游戏。
-
-## 🎮 游戏演示 (Game Demo Video)
-
-[点击下载演示视频](https://github.com/planX557/MyRogueLike/releases/download/v1.0-demo/QQ2026316-15304-HD.mp4)
