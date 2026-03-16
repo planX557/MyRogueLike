@@ -1,0 +1,29 @@
+# MyRogueLike
+
+这是一个使用 Unity 引擎开发的 2D Roguelike 游戏项目。玩家将在随机生成的地下城中探险，击败敌人，收集金币，购买强力武器，并挑战最终 Boss。
+
+## 游戏特色 (Game Features)
+
+*   **随机生成关卡 (Procedural Level Generation)**：每次游戏的地图布局都是随机生成的，保证了重复游玩的乐趣。
+*   **多角色系统 (Character System)**：拥有多个可玩角色，可以通过在游戏中解救被囚禁的角色来解锁他们。
+*   **丰富的武器库 (Weapon Variety)**：多种枪械武器可供选择和切换。
+*   **商店与经济系统 (Shop & Economy)**：击败敌人掉落金币，可在商店购买回血道具、生命值上限提升以及新武器。
+*   **Boss 战 (Boss Battles)**：具有挑战性的 Boss 战斗机制。
+*   **小地图系统 (Minimap)**：支持查看大地图以规划路线。
+
+## 操作说明 (Controls)
+
+*   **W / A / S / D**：移动角色
+*   **鼠标移动 (Mouse Move)**：控制瞄准方向
+*   **鼠标左键 (Left Click)**：射击
+*   **Space (空格键)**：冲刺 (Dash)
+*   **Tab**：切换武器
+*   **E**：交互 (购买物品、选择角色、开启宝箱)
+*   **M**：打开/关闭大地图
+
+## 安装与运行 (Installation)
+
+1.  确保已安装 Unity 编辑器 (建议使用 2021.3 或更高版本)。
+2.  克隆或下载本项目到本地。
+3.  使用 Unity Hub 添加并打开 `MyRogueLike` 项目文件夹。
+4.  打开 `Assets/Scenes` 目录下的 `MainMenu` 场景开始游戏。
