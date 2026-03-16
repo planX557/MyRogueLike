@@ -21,11 +21,13 @@
 *   **E**：交互 (购买物品、选择角色、开启宝箱)
 *   **M**：打开/关闭大地图
 
-## 🎮 游戏演示 (Game Demo Video)
-
-[点击下载演示视频](https://github.com/planX557/MyRogueLike/releases/download/v1.0-demo/QQ2026316-15304-HD.mp4)
+## 下载 (Downloads)
 
 1.  确保已安装 Unity 编辑器 (建议使用 2021.3 或更高版本)。
 2.  克隆或下载本项目到本地。
 3.  使用 Unity Hub 添加并打开 `MyRogueLike` 项目文件夹。
 4.  打开 `Assets/Scenes` 目录下的 `MainMenu` 场景开始游戏。
+
+## 🎮 游戏演示 (Game Demo Video)
+
+[点击下载演示视频](https://github.com/planX557/MyRogueLike/releases/download/v1.0-demo/QQ2026316-15304-HD.mp4)
